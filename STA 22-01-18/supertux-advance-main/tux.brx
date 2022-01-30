@@ -77,7 +77,7 @@ switch(reschoice) {
 		break
 	//Other resolutions may be supported so default is left separate
 	default:
-		setResolution(320, 240)
+		setResolution(320, 240) //320, 240
 		break
 }
 
@@ -114,6 +114,8 @@ startMain()
 menu = meMain
 config.playerchar = "Tux"
 startPlay("res/map/u-2.json")
+//startPlay("res/map/levelchunks.json")
+//startPlay("res/map/0-2.json")
 
 update()
 while(!getQuit() && !gvQuit)

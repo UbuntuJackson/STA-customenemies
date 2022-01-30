@@ -104,3 +104,7 @@
 ::dbgRuins <- function() {
 	drawSprite(bgRuins, 0, 0, (screenH() / 2) - 120)
 }
+
+::dbgMountains <- function() {
+	drawSprite(bgMountains, 0, 0, (screenH() / 2) - 160)
+}

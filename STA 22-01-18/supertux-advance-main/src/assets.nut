@@ -140,6 +140,7 @@
 ::bgIceForest1 <- newSprite("res/gfx/iceforest1.png", 640, 256, 0, 0, 0, 0)
 ::bgIceForest2 <- newSprite("res/gfx/iceforest2.png", 480, 192, 0, 0, 0, 0)
 ::bgRuins <- newSprite("res/gfx/full.png", 480, 240, 0, 0, 0, 0)
+::bgMountains <- newSprite("res/gfx/background2finish.png", 359, 254, 0, 0, 0, 0)
 
 //Sounds
 ::sndFireball <- loadSound("res/snd/fireball.ogg")

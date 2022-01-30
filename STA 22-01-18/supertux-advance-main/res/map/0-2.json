@@ -2223,7 +2223,7 @@
         {
          "name":"code",
          "type":"string",
-         "value":"drawBG = dbgRuins\nsongPlay(musDisko)"
+         "value":"drawBG = dbgMountains\nsongPlay(musDisko)"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
